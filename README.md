@@ -1,5 +1,5 @@
-Interinstitutional Agreements Host API
-======================================
+OBSOLETE - Interinstitutional Agreements Host API
+=================================================
 
 * [What is the status of this document?][statuses]
 * [See the index of all other EWP Specifications][develhub]
@@ -7,6 +7,9 @@ Interinstitutional Agreements Host API
 
 Summary
 -------
+
+**OBSOLETE: This proposal was replaced by
+[IIAs API](https://github.com/erasmus-without-paper/ewp-specs-api-iias).**
 
 This document describes the **Interinstitutional Agreements (IIAs) Host API**.
 It allows the clients to read, create and update IIAs stored on the EWP Host
